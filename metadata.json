@@ -1,0 +1,5 @@
+{
+  "name": "AI Lookbook Studio",
+  "description": "An AI-powered fashion lookbook generator using Gemini 3 Vision and Image Generation.",
+  "requestFramePermissions": []
+}
